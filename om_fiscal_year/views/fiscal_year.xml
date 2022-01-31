@@ -50,6 +50,6 @@
               sequence="5"
               parent="account.account_account_menu"
               action="actions_account_fiscal_year"
-              groups="om_account_accountant.group_fiscal_year"/>
+              groups="om_fiscal_year.group_fiscal_year"/>
 
 </odoo>

@@ -2,12 +2,12 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Odoo 14 Accounting Financial Reports',
-    'version': '14.0.4.6.0',
+    'name': 'Odoo 15 Accounting Financial Reports',
+    'version': '15.0.6.0.0',
     'category': 'Invoicing Management',
-    'description': 'Accounting Reports For Odoo 14, Accounting Financial Reports, Odoo 14 Financial Reports',
-    'summary': 'Accounting Reports For Odoo 14',
-    'sequence': '10',
+    'description': 'Accounting Reports For Odoo 15, Accounting Financial Reports, Odoo 15 Financial Reports',
+    'summary': 'Accounting Reports For Odoo 15',
+    'sequence': '1',
     'author': 'Odoo Mates, Odoo SA',
     'license': 'LGPL-3',
     'company': 'Odoo Mates',
@@ -44,5 +44,4 @@
     'application': False,
     'auto_install': False,
     'images': ['static/description/banner.gif'],
-    'qweb': [],
 }

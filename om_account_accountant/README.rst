@@ -1,9 +1,9 @@
 =============================
-Odoo 14 Accounting Management
+Odoo 15 Accounting Management
 =============================
 
 This Module will bring back the accounting features such as Account Reports, Asset Management
-and Budget Management into Odoo 14 Community Edition
+and Budget Management into Odoo 15 Community Edition
 
 Installation
 ============
